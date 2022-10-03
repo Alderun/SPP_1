@@ -1,0 +1,12 @@
+d:\SPP_1-main\LibraryTracer\bin\Debug\net5.0\LibraryTracer.deps.json
+d:\SPP_1-main\LibraryTracer\bin\Debug\net5.0\LibraryTracer.dll
+d:\SPP_1-main\LibraryTracer\bin\Debug\net5.0\LibraryTracer.pdb
+d:\SPP_1-main\LibraryTracer\obj\Debug\net5.0\LibraryTracer.csproj.AssemblyReference.cache
+d:\SPP_1-main\LibraryTracer\obj\Debug\net5.0\LibraryTracer.GeneratedMSBuildEditorConfig.editorconfig
+d:\SPP_1-main\LibraryTracer\obj\Debug\net5.0\LibraryTracer.AssemblyInfoInputs.cache
+d:\SPP_1-main\LibraryTracer\obj\Debug\net5.0\LibraryTracer.AssemblyInfo.cs
+d:\SPP_1-main\LibraryTracer\obj\Debug\net5.0\LibraryTracer.csproj.CoreCompileInputs.cache
+d:\SPP_1-main\LibraryTracer\obj\Debug\net5.0\LibraryTracer.dll
+d:\SPP_1-main\LibraryTracer\obj\Debug\net5.0\refint\LibraryTracer.dll
+d:\SPP_1-main\LibraryTracer\obj\Debug\net5.0\LibraryTracer.pdb
+d:\SPP_1-main\LibraryTracer\obj\Debug\net5.0\ref\LibraryTracer.dll
