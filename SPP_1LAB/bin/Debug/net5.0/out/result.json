@@ -1,0 +1,232 @@
+{
+  "threads": [
+    {
+      "id": 1,
+      "time": 1814,
+      "methods": [
+        {
+          "name": "Method1",
+          "class": "SPP_1LAB.Foo",
+          "time": 1000,
+          "methods": [
+            {
+              "name": "Method2",
+              "class": "SPP_1LAB.Foo",
+              "time": 782,
+              "methods": [
+                {
+                  "name": "InnerMethod1",
+                  "class": "SPP_1LAB.Bar",
+                  "time": 96,
+                  "methods": []
+                },
+                {
+                  "name": "InnerMethod2",
+                  "class": "SPP_1LAB.Bar",
+                  "time": 281,
+                  "methods": [
+                    {
+                      "name": "InnerMethod3",
+                      "class": "SPP_1LAB.Bar",
+                      "time": 202,
+                      "methods": [
+                        {
+                          "name": "InnerMethod1",
+                          "class": "SPP_1LAB.Bar",
+                          "time": 92,
+                          "methods": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "InnerMethod3",
+                  "class": "SPP_1LAB.Bar",
+                  "time": 215,
+                  "methods": [
+                    {
+                      "name": "InnerMethod1",
+                      "class": "SPP_1LAB.Bar",
+                      "time": 105,
+                      "methods": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "InnerMethod1",
+              "class": "SPP_1LAB.Bar",
+              "time": 92,
+              "methods": []
+            }
+          ]
+        },
+        {
+          "name": "Method2",
+          "class": "SPP_1LAB.Foo",
+          "time": 814,
+          "methods": [
+            {
+              "name": "InnerMethod1",
+              "class": "SPP_1LAB.Bar",
+              "time": 93,
+              "methods": []
+            },
+            {
+              "name": "InnerMethod2",
+              "class": "SPP_1LAB.Bar",
+              "time": 275,
+              "methods": [
+                {
+                  "name": "InnerMethod3",
+                  "class": "SPP_1LAB.Bar",
+                  "time": 199,
+                  "methods": [
+                    {
+                      "name": "InnerMethod1",
+                      "class": "SPP_1LAB.Bar",
+                      "time": 91,
+                      "methods": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "InnerMethod3",
+              "class": "SPP_1LAB.Bar",
+              "time": 247,
+              "methods": [
+                {
+                  "name": "InnerMethod1",
+                  "class": "SPP_1LAB.Bar",
+                  "time": 138,
+                  "methods": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "time": 782,
+      "methods": [
+        {
+          "name": "Method2",
+          "class": "SPP_1LAB.Foo",
+          "time": 782,
+          "methods": [
+            {
+              "name": "InnerMethod1",
+              "class": "SPP_1LAB.Bar",
+              "time": 98,
+              "methods": []
+            },
+            {
+              "name": "InnerMethod2",
+              "class": "SPP_1LAB.Bar",
+              "time": 281,
+              "methods": [
+                {
+                  "name": "InnerMethod3",
+                  "class": "SPP_1LAB.Bar",
+                  "time": 203,
+                  "methods": [
+                    {
+                      "name": "InnerMethod1",
+                      "class": "SPP_1LAB.Bar",
+                      "time": 93,
+                      "methods": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "InnerMethod3",
+              "class": "SPP_1LAB.Bar",
+              "time": 219,
+              "methods": [
+                {
+                  "name": "InnerMethod1",
+                  "class": "SPP_1LAB.Bar",
+                  "time": 106,
+                  "methods": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "time": 1000,
+      "methods": [
+        {
+          "name": "Method1",
+          "class": "SPP_1LAB.Foo",
+          "time": 1000,
+          "methods": [
+            {
+              "name": "Method2",
+              "class": "SPP_1LAB.Foo",
+              "time": 782,
+              "methods": [
+                {
+                  "name": "InnerMethod1",
+                  "class": "SPP_1LAB.Bar",
+                  "time": 98,
+                  "methods": []
+                },
+                {
+                  "name": "InnerMethod2",
+                  "class": "SPP_1LAB.Bar",
+                  "time": 280,
+                  "methods": [
+                    {
+                      "name": "InnerMethod3",
+                      "class": "SPP_1LAB.Bar",
+                      "time": 203,
+                      "methods": [
+                        {
+                          "name": "InnerMethod1",
+                          "class": "SPP_1LAB.Bar",
+                          "time": 93,
+                          "methods": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "InnerMethod3",
+                  "class": "SPP_1LAB.Bar",
+                  "time": 219,
+                  "methods": [
+                    {
+                      "name": "InnerMethod1",
+                      "class": "SPP_1LAB.Bar",
+                      "time": 106,
+                      "methods": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "InnerMethod1",
+              "class": "SPP_1LAB.Bar",
+              "time": 92,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
