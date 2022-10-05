@@ -17,3 +17,22 @@ d:\SPP_1-main\SPP_1LAB\obj\Debug\net5.0\refint\SPP_1LAB.dll
 d:\SPP_1-main\SPP_1LAB\obj\Debug\net5.0\SPP_1LAB.pdb
 d:\SPP_1-main\SPP_1LAB\obj\Debug\net5.0\SPP_1LAB.genruntimeconfig.cache
 d:\SPP_1-main\SPP_1LAB\obj\Debug\net5.0\ref\SPP_1LAB.dll
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\bin\Debug\net5.0\SPP_1LAB.exe
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\bin\Debug\net5.0\SPP_1LAB.deps.json
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\bin\Debug\net5.0\SPP_1LAB.runtimeconfig.json
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\bin\Debug\net5.0\SPP_1LAB.runtimeconfig.dev.json
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\bin\Debug\net5.0\SPP_1LAB.dll
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\bin\Debug\net5.0\SPP_1LAB.pdb
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\bin\Debug\net5.0\LibraryTracer.dll
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\bin\Debug\net5.0\LibraryTracer.pdb
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\obj\Debug\net5.0\SPP_1LAB.csproj.AssemblyReference.cache
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\obj\Debug\net5.0\SPP_1LAB.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\obj\Debug\net5.0\SPP_1LAB.AssemblyInfoInputs.cache
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\obj\Debug\net5.0\SPP_1LAB.AssemblyInfo.cs
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\obj\Debug\net5.0\SPP_1LAB.csproj.CoreCompileInputs.cache
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\obj\Debug\net5.0\SPP_1LAB.csproj.CopyComplete
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\obj\Debug\net5.0\SPP_1LAB.dll
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\obj\Debug\net5.0\refint\SPP_1LAB.dll
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\obj\Debug\net5.0\SPP_1LAB.pdb
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\obj\Debug\net5.0\SPP_1LAB.genruntimeconfig.cache
+D:\Лабы 5 сем\СПП лабы\SPP_1LAB\obj\Debug\net5.0\ref\SPP_1LAB.dll

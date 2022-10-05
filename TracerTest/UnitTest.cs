@@ -17,13 +17,6 @@ namespace TracerTest
             tracer.StopTrace();
         }
 
-        TraceResult TimeMethodTrace(int SleepTime)
-        {
-            tracer.StartTrace();
-            Thread.Sleep(SleepTime);
-            tracer.StopTrace();
-            return (TraceResult)tracer.GetTraceResult();
-        }
 
         [TestMethod]
         public void TestMethodName()

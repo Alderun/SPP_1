@@ -2,33 +2,33 @@
   "threads": [
     {
       "id": 1,
-      "time": 1814,
+      "time": 1869,
       "methods": [
         {
           "name": "Method1",
           "class": "SPP_1LAB.Foo",
-          "time": 1000,
+          "time": 1088,
           "methods": [
             {
               "name": "Method2",
               "class": "SPP_1LAB.Foo",
-              "time": 782,
+              "time": 859,
               "methods": [
                 {
                   "name": "InnerMethod1",
                   "class": "SPP_1LAB.Bar",
-                  "time": 96,
+                  "time": 92,
                   "methods": []
                 },
                 {
                   "name": "InnerMethod2",
                   "class": "SPP_1LAB.Bar",
-                  "time": 281,
+                  "time": 282,
                   "methods": [
                     {
                       "name": "InnerMethod3",
                       "class": "SPP_1LAB.Bar",
-                      "time": 202,
+                      "time": 203,
                       "methods": [
                         {
                           "name": "InnerMethod1",
@@ -43,12 +43,12 @@
                 {
                   "name": "InnerMethod3",
                   "class": "SPP_1LAB.Bar",
-                  "time": 215,
+                  "time": 285,
                   "methods": [
                     {
                       "name": "InnerMethod1",
                       "class": "SPP_1LAB.Bar",
-                      "time": 105,
+                      "time": 111,
                       "methods": []
                     }
                   ]
@@ -58,7 +58,7 @@
             {
               "name": "InnerMethod1",
               "class": "SPP_1LAB.Bar",
-              "time": 92,
+              "time": 104,
               "methods": []
             }
           ]
@@ -66,28 +66,28 @@
         {
           "name": "Method2",
           "class": "SPP_1LAB.Foo",
-          "time": 814,
+          "time": 781,
           "methods": [
             {
               "name": "InnerMethod1",
               "class": "SPP_1LAB.Bar",
-              "time": 93,
+              "time": 95,
               "methods": []
             },
             {
               "name": "InnerMethod2",
               "class": "SPP_1LAB.Bar",
-              "time": 275,
+              "time": 288,
               "methods": [
                 {
                   "name": "InnerMethod3",
                   "class": "SPP_1LAB.Bar",
-                  "time": 199,
+                  "time": 208,
                   "methods": [
                     {
                       "name": "InnerMethod1",
                       "class": "SPP_1LAB.Bar",
-                      "time": 91,
+                      "time": 100,
                       "methods": []
                     }
                   ]
@@ -97,12 +97,12 @@
             {
               "name": "InnerMethod3",
               "class": "SPP_1LAB.Bar",
-              "time": 247,
+              "time": 202,
               "methods": [
                 {
                   "name": "InnerMethod1",
                   "class": "SPP_1LAB.Bar",
-                  "time": 138,
+                  "time": 93,
                   "methods": []
                 }
               ]
@@ -112,86 +112,34 @@
       ]
     },
     {
-      "id": 7,
-      "time": 782,
-      "methods": [
-        {
-          "name": "Method2",
-          "class": "SPP_1LAB.Foo",
-          "time": 782,
-          "methods": [
-            {
-              "name": "InnerMethod1",
-              "class": "SPP_1LAB.Bar",
-              "time": 98,
-              "methods": []
-            },
-            {
-              "name": "InnerMethod2",
-              "class": "SPP_1LAB.Bar",
-              "time": 281,
-              "methods": [
-                {
-                  "name": "InnerMethod3",
-                  "class": "SPP_1LAB.Bar",
-                  "time": 203,
-                  "methods": [
-                    {
-                      "name": "InnerMethod1",
-                      "class": "SPP_1LAB.Bar",
-                      "time": 93,
-                      "methods": []
-                    }
-                  ]
-                }
-              ]
-            },
-            {
-              "name": "InnerMethod3",
-              "class": "SPP_1LAB.Bar",
-              "time": 219,
-              "methods": [
-                {
-                  "name": "InnerMethod1",
-                  "class": "SPP_1LAB.Bar",
-                  "time": 106,
-                  "methods": []
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "time": 1000,
+      "id": 5,
+      "time": 1042,
       "methods": [
         {
           "name": "Method1",
           "class": "SPP_1LAB.Foo",
-          "time": 1000,
+          "time": 1042,
           "methods": [
             {
               "name": "Method2",
               "class": "SPP_1LAB.Foo",
-              "time": 782,
+              "time": 809,
               "methods": [
                 {
                   "name": "InnerMethod1",
                   "class": "SPP_1LAB.Bar",
-                  "time": 98,
+                  "time": 92,
                   "methods": []
                 },
                 {
                   "name": "InnerMethod2",
                   "class": "SPP_1LAB.Bar",
-                  "time": 280,
+                  "time": 282,
                   "methods": [
                     {
                       "name": "InnerMethod3",
                       "class": "SPP_1LAB.Bar",
-                      "time": 203,
+                      "time": 204,
                       "methods": [
                         {
                           "name": "InnerMethod1",
@@ -206,12 +154,12 @@
                 {
                   "name": "InnerMethod3",
                   "class": "SPP_1LAB.Bar",
-                  "time": 219,
+                  "time": 223,
                   "methods": [
                     {
                       "name": "InnerMethod1",
                       "class": "SPP_1LAB.Bar",
-                      "time": 106,
+                      "time": 114,
                       "methods": []
                     }
                   ]
@@ -221,8 +169,60 @@
             {
               "name": "InnerMethod1",
               "class": "SPP_1LAB.Bar",
+              "time": 91,
+              "methods": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "time": 783,
+      "methods": [
+        {
+          "name": "Method2",
+          "class": "SPP_1LAB.Foo",
+          "time": 783,
+          "methods": [
+            {
+              "name": "InnerMethod1",
+              "class": "SPP_1LAB.Bar",
               "time": 92,
               "methods": []
+            },
+            {
+              "name": "InnerMethod2",
+              "class": "SPP_1LAB.Bar",
+              "time": 282,
+              "methods": [
+                {
+                  "name": "InnerMethod3",
+                  "class": "SPP_1LAB.Bar",
+                  "time": 204,
+                  "methods": [
+                    {
+                      "name": "InnerMethod1",
+                      "class": "SPP_1LAB.Bar",
+                      "time": 93,
+                      "methods": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "InnerMethod3",
+              "class": "SPP_1LAB.Bar",
+              "time": 223,
+              "methods": [
+                {
+                  "name": "InnerMethod1",
+                  "class": "SPP_1LAB.Bar",
+                  "time": 114,
+                  "methods": []
+                }
+              ]
             }
           ]
         }

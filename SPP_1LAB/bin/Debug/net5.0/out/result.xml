@@ -1,59 +1,59 @@
 <?xml version="1.0" encoding="utf-16"?>
 <TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <thread id="1" time="1814">
-    <method name="Method1" class="SPP_1LAB.Foo" time="1000">
-      <method name="Method2" class="SPP_1LAB.Foo" time="782">
-        <method name="InnerMethod1" class="SPP_1LAB.Bar" time="96" />
-        <method name="InnerMethod2" class="SPP_1LAB.Bar" time="281">
-          <method name="InnerMethod3" class="SPP_1LAB.Bar" time="202">
+  <thread id="1" time="1869">
+    <method name="Method1" class="SPP_1LAB.Foo" time="1088">
+      <method name="Method2" class="SPP_1LAB.Foo" time="859">
+        <method name="InnerMethod1" class="SPP_1LAB.Bar" time="92" />
+        <method name="InnerMethod2" class="SPP_1LAB.Bar" time="282">
+          <method name="InnerMethod3" class="SPP_1LAB.Bar" time="203">
             <method name="InnerMethod1" class="SPP_1LAB.Bar" time="92" />
           </method>
         </method>
-        <method name="InnerMethod3" class="SPP_1LAB.Bar" time="215">
-          <method name="InnerMethod1" class="SPP_1LAB.Bar" time="105" />
+        <method name="InnerMethod3" class="SPP_1LAB.Bar" time="285">
+          <method name="InnerMethod1" class="SPP_1LAB.Bar" time="111" />
         </method>
       </method>
-      <method name="InnerMethod1" class="SPP_1LAB.Bar" time="92" />
+      <method name="InnerMethod1" class="SPP_1LAB.Bar" time="104" />
     </method>
-    <method name="Method2" class="SPP_1LAB.Foo" time="814">
-      <method name="InnerMethod1" class="SPP_1LAB.Bar" time="93" />
-      <method name="InnerMethod2" class="SPP_1LAB.Bar" time="275">
-        <method name="InnerMethod3" class="SPP_1LAB.Bar" time="199">
-          <method name="InnerMethod1" class="SPP_1LAB.Bar" time="91" />
+    <method name="Method2" class="SPP_1LAB.Foo" time="781">
+      <method name="InnerMethod1" class="SPP_1LAB.Bar" time="95" />
+      <method name="InnerMethod2" class="SPP_1LAB.Bar" time="288">
+        <method name="InnerMethod3" class="SPP_1LAB.Bar" time="208">
+          <method name="InnerMethod1" class="SPP_1LAB.Bar" time="100" />
         </method>
       </method>
-      <method name="InnerMethod3" class="SPP_1LAB.Bar" time="247">
-        <method name="InnerMethod1" class="SPP_1LAB.Bar" time="138" />
-      </method>
-    </method>
-  </thread>
-  <thread id="7" time="782">
-    <method name="Method2" class="SPP_1LAB.Foo" time="782">
-      <method name="InnerMethod1" class="SPP_1LAB.Bar" time="98" />
-      <method name="InnerMethod2" class="SPP_1LAB.Bar" time="281">
-        <method name="InnerMethod3" class="SPP_1LAB.Bar" time="203">
-          <method name="InnerMethod1" class="SPP_1LAB.Bar" time="93" />
-        </method>
-      </method>
-      <method name="InnerMethod3" class="SPP_1LAB.Bar" time="219">
-        <method name="InnerMethod1" class="SPP_1LAB.Bar" time="106" />
+      <method name="InnerMethod3" class="SPP_1LAB.Bar" time="202">
+        <method name="InnerMethod1" class="SPP_1LAB.Bar" time="93" />
       </method>
     </method>
   </thread>
-  <thread id="6" time="1000">
-    <method name="Method1" class="SPP_1LAB.Foo" time="1000">
-      <method name="Method2" class="SPP_1LAB.Foo" time="782">
-        <method name="InnerMethod1" class="SPP_1LAB.Bar" time="98" />
-        <method name="InnerMethod2" class="SPP_1LAB.Bar" time="280">
-          <method name="InnerMethod3" class="SPP_1LAB.Bar" time="203">
+  <thread id="5" time="1042">
+    <method name="Method1" class="SPP_1LAB.Foo" time="1042">
+      <method name="Method2" class="SPP_1LAB.Foo" time="809">
+        <method name="InnerMethod1" class="SPP_1LAB.Bar" time="92" />
+        <method name="InnerMethod2" class="SPP_1LAB.Bar" time="282">
+          <method name="InnerMethod3" class="SPP_1LAB.Bar" time="204">
             <method name="InnerMethod1" class="SPP_1LAB.Bar" time="93" />
           </method>
         </method>
-        <method name="InnerMethod3" class="SPP_1LAB.Bar" time="219">
-          <method name="InnerMethod1" class="SPP_1LAB.Bar" time="106" />
+        <method name="InnerMethod3" class="SPP_1LAB.Bar" time="223">
+          <method name="InnerMethod1" class="SPP_1LAB.Bar" time="114" />
         </method>
       </method>
+      <method name="InnerMethod1" class="SPP_1LAB.Bar" time="91" />
+    </method>
+  </thread>
+  <thread id="6" time="783">
+    <method name="Method2" class="SPP_1LAB.Foo" time="783">
       <method name="InnerMethod1" class="SPP_1LAB.Bar" time="92" />
+      <method name="InnerMethod2" class="SPP_1LAB.Bar" time="282">
+        <method name="InnerMethod3" class="SPP_1LAB.Bar" time="204">
+          <method name="InnerMethod1" class="SPP_1LAB.Bar" time="93" />
+        </method>
+      </method>
+      <method name="InnerMethod3" class="SPP_1LAB.Bar" time="223">
+        <method name="InnerMethod1" class="SPP_1LAB.Bar" time="114" />
+      </method>
     </method>
   </thread>
 </TraceResult>
