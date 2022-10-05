@@ -70,31 +70,5 @@ namespace TracerTest
             Assert.AreEqual(threads.Count, result.Threads.Count);
         }
 
-        [TestMethod]
-        public void TestMethodExecutionTime()
-        {
-            var time = 150;
-            var result = TimeMethodTrace(time);
-            Assert.IsTrue(result.Threads[0].Time + 10 >= time && result.Threads[0].Time - 10 <= time);
-        }
-
-        [TestMethod]
-        public void TestThreadsExecutionTime()
-        {
-            List<Thread> threads = new List<Thread>();
-            var expectedThreadsCount = 3;
-            for (int i = 0; i < expectedThreadsCount; i++)
-            {
-                threads.Add(new Thread(MethodTrace));
-                threads[i].Start();
-                threads[i].Join();
-            }
-
-            TraceResult result = (TraceResult)tracer.GetTraceResult();
-
-            Assert.AreEqual(threads.Count, result.Threads.Count);
-            Assert.IsTrue(result.Threads[1].Time + 10 >= result.Threads[0].Time && result.Threads[1].Time - 10 <= result.Threads[0].Time);
-            Assert.IsTrue(result.Threads[2].Time + 10 >= result.Threads[1].Time && result.Threads[2].Time - 10 <= result.Threads[1].Time);
-        }
     }
 }

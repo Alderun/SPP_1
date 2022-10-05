@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\SPP_1-main\\SPP_1LAB\\SPP_1LAB.csproj",
+      "projectUniqueName": "D:\\Лабы 5 сем\\СПП лабы\\SPP_1LAB\\SPP_1LAB.csproj",
       "projectName": "SPP_1LAB",
-      "projectPath": "D:\\SPP_1-main\\SPP_1LAB\\SPP_1LAB.csproj",
+      "projectPath": "D:\\Лабы 5 сем\\СПП лабы\\SPP_1LAB\\SPP_1LAB.csproj",
       "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
-      "outputPath": "D:\\SPP_1-main\\SPP_1LAB\\obj\\",
+      "outputPath": "D:\\Лабы 5 сем\\СПП лабы\\SPP_1LAB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\SPP_1-main\\LibraryTracer\\LibraryTracer.csproj": {
-              "projectPath": "D:\\SPP_1-main\\LibraryTracer\\LibraryTracer.csproj"
+            "D:\\Лабы 5 сем\\СПП лабы\\LibraryTracer\\LibraryTracer.csproj": {
+              "projectPath": "D:\\Лабы 5 сем\\СПП лабы\\LibraryTracer\\LibraryTracer.csproj"
             }
           }
         }

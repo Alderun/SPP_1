@@ -10,3 +10,15 @@ d:\SPP_1-main\LibraryTracer\obj\Debug\net5.0\LibraryTracer.dll
 d:\SPP_1-main\LibraryTracer\obj\Debug\net5.0\refint\LibraryTracer.dll
 d:\SPP_1-main\LibraryTracer\obj\Debug\net5.0\LibraryTracer.pdb
 d:\SPP_1-main\LibraryTracer\obj\Debug\net5.0\ref\LibraryTracer.dll
+D:\Лабы 5 сем\СПП лабы\LibraryTracer\bin\Debug\net5.0\LibraryTracer.deps.json
+D:\Лабы 5 сем\СПП лабы\LibraryTracer\bin\Debug\net5.0\LibraryTracer.dll
+D:\Лабы 5 сем\СПП лабы\LibraryTracer\bin\Debug\net5.0\LibraryTracer.pdb
+D:\Лабы 5 сем\СПП лабы\LibraryTracer\obj\Debug\net5.0\LibraryTracer.csproj.AssemblyReference.cache
+D:\Лабы 5 сем\СПП лабы\LibraryTracer\obj\Debug\net5.0\LibraryTracer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабы 5 сем\СПП лабы\LibraryTracer\obj\Debug\net5.0\LibraryTracer.AssemblyInfoInputs.cache
+D:\Лабы 5 сем\СПП лабы\LibraryTracer\obj\Debug\net5.0\LibraryTracer.AssemblyInfo.cs
+D:\Лабы 5 сем\СПП лабы\LibraryTracer\obj\Debug\net5.0\LibraryTracer.csproj.CoreCompileInputs.cache
+D:\Лабы 5 сем\СПП лабы\LibraryTracer\obj\Debug\net5.0\LibraryTracer.dll
+D:\Лабы 5 сем\СПП лабы\LibraryTracer\obj\Debug\net5.0\refint\LibraryTracer.dll
+D:\Лабы 5 сем\СПП лабы\LibraryTracer\obj\Debug\net5.0\LibraryTracer.pdb
+D:\Лабы 5 сем\СПП лабы\LibraryTracer\obj\Debug\net5.0\ref\LibraryTracer.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SPP_1-main\\TracerTest\\TracerTest.csproj": {}
+    "D:\\Лабы 5 сем\\СПП лабы\\TracerTest\\TracerTest.csproj": {}
   },
   "projects": {
-    "D:\\SPP_1-main\\LibraryTracer\\LibraryTracer.csproj": {
+    "D:\\Лабы 5 сем\\СПП лабы\\LibraryTracer\\LibraryTracer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SPP_1-main\\LibraryTracer\\LibraryTracer.csproj",
+        "projectUniqueName": "D:\\Лабы 5 сем\\СПП лабы\\LibraryTracer\\LibraryTracer.csproj",
         "projectName": "LibraryTracer",
-        "projectPath": "D:\\SPP_1-main\\LibraryTracer\\LibraryTracer.csproj",
+        "projectPath": "D:\\Лабы 5 сем\\СПП лабы\\LibraryTracer\\LibraryTracer.csproj",
         "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
-        "outputPath": "D:\\SPP_1-main\\LibraryTracer\\obj\\",
+        "outputPath": "D:\\Лабы 5 сем\\СПП лабы\\LibraryTracer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,14 +62,14 @@
         }
       }
     },
-    "D:\\SPP_1-main\\TracerTest\\TracerTest.csproj": {
+    "D:\\Лабы 5 сем\\СПП лабы\\TracerTest\\TracerTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SPP_1-main\\TracerTest\\TracerTest.csproj",
+        "projectUniqueName": "D:\\Лабы 5 сем\\СПП лабы\\TracerTest\\TracerTest.csproj",
         "projectName": "TracerTest",
-        "projectPath": "D:\\SPP_1-main\\TracerTest\\TracerTest.csproj",
+        "projectPath": "D:\\Лабы 5 сем\\СПП лабы\\TracerTest\\TracerTest.csproj",
         "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
-        "outputPath": "D:\\SPP_1-main\\TracerTest\\obj\\",
+        "outputPath": "D:\\Лабы 5 сем\\СПП лабы\\TracerTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -90,8 +90,8 @@
           "net5.0": {
             "targetAlias": "netcoreapp5.0",
             "projectReferences": {
-              "D:\\SPP_1-main\\LibraryTracer\\LibraryTracer.csproj": {
-                "projectPath": "D:\\SPP_1-main\\LibraryTracer\\LibraryTracer.csproj"
+              "D:\\Лабы 5 сем\\СПП лабы\\LibraryTracer\\LibraryTracer.csproj": {
+                "projectPath": "D:\\Лабы 5 сем\\СПП лабы\\LibraryTracer\\LibraryTracer.csproj"
               }
             }
           }

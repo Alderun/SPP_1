@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tiTjlOgFJYj+mBUWPqB/B7a6tpAcR3I0me6uyl8tdPMEkPEsnGfkYOCdkG00zXJfkkMIwdhB0w700pB2WKLgtA==",
+  "dgSpecHash": "RBoj01twPoX/hd0ZrMslwr9jWxMo73VUDbXGit2vw+4Mfoa4JUTGakBFo1zXlEmZWzw/QGOXeCBNrib797Xggw==",
   "success": true,
-  "projectFilePath": "D:\\SPP_1-main\\TracerTest\\TracerTest.csproj",
+  "projectFilePath": "D:\\Лабы 5 сем\\СПП лабы\\TracerTest\\TracerTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Артем\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Артем\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

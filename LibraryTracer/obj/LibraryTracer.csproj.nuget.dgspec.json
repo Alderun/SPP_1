@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SPP_1-main\\LibraryTracer\\LibraryTracer.csproj": {}
+    "D:\\Лабы 5 сем\\СПП лабы\\LibraryTracer\\LibraryTracer.csproj": {}
   },
   "projects": {
-    "D:\\SPP_1-main\\LibraryTracer\\LibraryTracer.csproj": {
+    "D:\\Лабы 5 сем\\СПП лабы\\LibraryTracer\\LibraryTracer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SPP_1-main\\LibraryTracer\\LibraryTracer.csproj",
+        "projectUniqueName": "D:\\Лабы 5 сем\\СПП лабы\\LibraryTracer\\LibraryTracer.csproj",
         "projectName": "LibraryTracer",
-        "projectPath": "D:\\SPP_1-main\\LibraryTracer\\LibraryTracer.csproj",
+        "projectPath": "D:\\Лабы 5 сем\\СПП лабы\\LibraryTracer\\LibraryTracer.csproj",
         "packagesPath": "C:\\Users\\Артем\\.nuget\\packages\\",
-        "outputPath": "D:\\SPP_1-main\\LibraryTracer\\obj\\",
+        "outputPath": "D:\\Лабы 5 сем\\СПП лабы\\LibraryTracer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
